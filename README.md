@@ -1,1 +1,3 @@
 # homepage
+
+To remove completely docker and it dependencies   ......sudo yum remove -y docker-ce docker-ce-cli ....
